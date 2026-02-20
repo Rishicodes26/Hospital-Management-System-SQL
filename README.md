@@ -5,7 +5,7 @@ A relational database project built in PostgreSQL/pgAdmin 4 for managing hospita
 
 This project is a comprehensive relational database solution designed to streamline hospital operations, including patient registration, doctor-department allocation, appointment scheduling, and billing management. Built using PostgreSQL, the system ensures data integrity through normalized table structures and complex constraints.
 
-#📊 Database Architecture (ERD)
+# 📊 Database Architecture (ERD)
 
 The database follows a normalized relational model to minimize redundancy and ensure referential integrity.
 
